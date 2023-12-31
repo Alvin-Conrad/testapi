@@ -1,7 +1,7 @@
 {
 
 
-    "Tutorial":[{
+    {
         "id":"presentation",
         "video":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
         "Title":"How to create a Powerpoint using Canva"
@@ -28,5 +28,5 @@
         "Title":"How to create Brochures using canva"
 
     }
-    ]
+    
 }
