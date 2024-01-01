@@ -1,37 +1,32 @@
-{
-
-
+[
     {
-        "type":"presentation",
-        "url":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
-        "Title":"How to create a Powerpoint using Canva",
-        "key":"1"
+        "type": "presentation",
+        "url": "https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
+        "Title": "How to create a Powerpoint using Canva",
+        "key": "1"
     },
     {
-        "type":"poster",
-        "url":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
-        "Title":"How to Create a simple Poster using Canva",
-        "key":"2"
+        "type": "poster",
+        "url": "https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
+        "Title": "How to Create a simple Poster using Canva",
+        "key": "2"
     },
     {
-        "type":"logo",
-        "url":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
-        "Title":"How to Create Logo's using Canva",
-        "key":"3"
-
+        "type": "logo",
+        "url": "https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
+        "Title": "How to Create Logo's using Canva",
+        "key": "3"
     },
     {
-        "type":"flyers",
-        "url":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
-        "Title":"How to Create flyers using canva"
-        "key":"4"
+        "type": "flyers",
+        "url": "https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
+        "Title": "How to Create flyers using canva",
+        "key": "4"
     },
     {
-        "type":"brochures",
-        "url":"https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
-        "Title":"How to create Brochures using canva"
-        "key":"5"
-
+        "type": "brochures",
+        "url": "https://youtu.be/C0DPdy98e4c?si=33fa2TXWktINOww2",
+        "Title": "How to create Brochures using canva",
+        "key": "5"
     }
-    
-}
+]
